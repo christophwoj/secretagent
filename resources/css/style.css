@@ -124,11 +124,11 @@ li a {
 	margin: 3rem 0 0 0;
 }
 
-.realtime {
+.time {
 	width: 35%;
 }
 
-.realtime .title {
+.time .title {
 	display: block;
 	background-color: black;
 	color: white;
